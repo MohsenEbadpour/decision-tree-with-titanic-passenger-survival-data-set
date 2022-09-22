@@ -1,4 +1,4 @@
-# titanic passenger survival data set with decision tree
+# Decision tree with titanic passenger survival data set
 The source code is a simple implementation for titanic passenger survival data set with the python programming language and decision tree. Also, some primary preprocessing steps is considered as well. 
 
 ### Note
